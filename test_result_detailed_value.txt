@@ -1,0 +1,10 @@
+Maximum ROUGE-1 score=0.2758935195217952
+Maximum ROUGE-2 score=0.08095237874326625
+Maximum ROUGE-L score=0.24715242609942994
+
+Epoch of the largest ROUGE-1 score=10
+Epoch of the largest ROUGE-2 score=10
+Epoch of the largest ROUGE-L score=10
+
+
+
